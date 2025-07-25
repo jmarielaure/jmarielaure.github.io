@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Marie-Laure's portfolio.
-subtitle: "A glance into my journey in the Data World"
+title: Marie-Laure's portfolio
+subtitle: "A glance into my journey into the Data World"
 email: marielaurejovial@gmail.com
 name: Marie-Laure Jovial
 description: >
