@@ -9,7 +9,7 @@ categories: "Dashboard_and_reporting"
 
 ## 📝 Description
 
-This Power BI report provides an in-depth analysis of **online and in-store card transactions** made by **2000 users** with several credit and debit cards **between Jan 2010 and Oct 2019. It offers detailed insights into:
+This Power BI report provides an in-depth analysis of **online and in-store card transactions** made by **2000 users** with several credit and debit cards **between Jan 2010 and Oct 2019**. It offers detailed insights into:
 
 - Trends in successful transactions  
 - Tracking of declined transactions and their causes  
@@ -125,7 +125,6 @@ The report consisted in 5 pages:
 
 ## 🔮 Future Improvements
 
-- Automated connection to a **SQL database or transactional API**  
 - Alert system integration (e.g. **spike in transaction failures**) via Power BI Service  
 - Behavioral segmentation using **clustering or machine learning**  
 - Additional visuals to highlight **correlations between KPIs and client behavior**
